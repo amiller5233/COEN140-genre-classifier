@@ -2,6 +2,7 @@
 /venv
 /fma_metadata
 *.mp3
+*.mov
 *.zip
 *.pdf
 *.csv

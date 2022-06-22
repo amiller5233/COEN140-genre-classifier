@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 jdcal==1.4.1
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-numpy==1.19.1
+numpy==1.22.0
 openpyxl==3.0.4
 ortools==7.7.7810
 pandas==1.1.0
